@@ -1,5 +1,8 @@
+name: Data 
+title: null
+
 # Data Portfolio
-Portfolio of different data analyses conducted 
+Portfolio of various projects
 
 # [Project 1: SFO Airport](https://github.com/frickinfriche/SFO_Airport)
 * Basic data analysis using R and SFO's 2018 Customer Satisfaction Survey 
