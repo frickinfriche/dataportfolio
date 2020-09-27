@@ -1,5 +1,3 @@
-name: Data 
-title: null
 
 # Data Portfolio
 Portfolio of various projects
